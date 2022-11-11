@@ -7,7 +7,7 @@
  
 body {
   /* background-image: var(--gradient); */
-  background-color: #f4f4f4;
+  background-color: transparent;
   font-family: "Lexend", sans-serif;
   accent-color: var(--blue);
   -webkit-font-smoothing: antialiased;
